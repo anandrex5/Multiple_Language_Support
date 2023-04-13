@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Çoklu Dil Desteği</string>
+    <string name="hello">Merhaba Dünya</string>
+    <string name="toast">Bu bir Tost Mesajı</string>
+</resources>
